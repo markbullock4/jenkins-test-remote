@@ -5,9 +5,9 @@ Here are the steps involved  </br>
 </br>
 Pre-Reqs
 -Set up Jenkins installation</br>
--Set up and test your application independently before testing it with Jenkins
-
-JCasC Steps
+-Set up and test your application independently before testing it with Jenkins</br>
+</br>
+JCasC Steps</br>
 -Set up a plugin script to deploy remotely any Jenkins plugins needed</br>
 -Set up any specific orchestration YAML files</br>
 -Create credentials</br>
